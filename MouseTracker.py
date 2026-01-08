@@ -15,7 +15,7 @@ try:
 except:
     pass
 
-class MousePathStudio:
+class MousePathTracer:
     def __init__(self, root):
         self.root = root
         self.root.title("✨ Mouse Path Trace")
@@ -450,5 +450,5 @@ class MousePathStudio:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = MousePathStudio(root)
+    app = MousePathTracer(root)
     root.mainloop()
