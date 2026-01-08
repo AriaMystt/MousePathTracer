@@ -2,9 +2,9 @@ Based on the source code provided for `MouseTracker.py`, here is a comprehensive
 
 ---
 
-# ✨ Mouse Path Studio
+# ✨ Mouse Path Tracer
 
-**Mouse Path Studio** is a high-performance desktop utility built with Python that captures, visualizes, and exports your mouse movements into smooth, high-quality video animations. Whether you are creating tutorials, analyzing gaming patterns, or generating digital art from your workflows, this tool provides a professional interface for path tracing.
+**Mouse Path Tracer** is a high-performance desktop utility built with Python that captures, visualizes, and exports your mouse movements into smooth, high-quality video animations. Whether you are creating tutorials, analyzing gaming patterns, or generating digital art from your workflows, this tool provides a professional interface for path tracing.
 
 ## 🚀 Features
 
