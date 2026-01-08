@@ -33,4 +33,4 @@
 
 ## 📜 License
 
-This project is provided "as-is" for creative and analytical use.
+This project is licensed under the MIT License.
